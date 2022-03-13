@@ -29,4 +29,4 @@ Set your house ambience with respect to the ambient temperature using a temperat
   
   #### Note : Disconnect the power supply jumper cable to LED & Sensor to avoid any unwanted issues
 
-  ![Connections](https://github.com/Pranav941/house-ambience/blob/main/resource/Untitled.png?raw=true)
+  ![Connections](https://github.com/Pranav941/be-hydroponics/blob/main/figures/BE-Hydroponics.png?raw=true)
