@@ -1,16 +1,13 @@
-#For hydroponics
-
-# House Ambience
+# BE Hydroponics
 Set your house ambience with respect to the ambient temperature using a temperature sensor and WS281B Addressable LEDs in 5 steps
 
 ## Pre-requisites
 
 * **Hardware**
   + Arduino Uno or any other equivalent board
+  + NodeMCU ESP8266
   + 5v Power supply
-  + 3 Male-to-male Jumper Cables
   + 3 Male-to-female Jumper Cables
-  + WS281B LED Strip
   + DHT11 or newer temperature sensor
   + Breadboard (Optional)
 
