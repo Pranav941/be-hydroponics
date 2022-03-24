@@ -13,7 +13,7 @@ Set your house ambience with respect to the ambient temperature using a temperat
 
 * **Software**
   + [Arduino IDE](https://www.arduino.cc/en/software "Download Arduino IDE")
-  + Library : FastLED *(not by AdaFruit)* & Unified Sensor by AdaFruit *[howTo](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)*
+  + Library : FastLED *(not by AdaFruit)* & Unified Sensor by AdaFruit *[howTo](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)* & DHT
 
 ## Usage
 
